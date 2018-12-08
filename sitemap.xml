@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cemsinano.github.io/post/2017-09-23-hypothesis-testing/</loc>
+    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cemsinano.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cemsinano.github.io/</loc>
+    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cemsinano.github.io/post/</loc>
+    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

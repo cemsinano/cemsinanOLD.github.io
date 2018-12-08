@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cem Sinan Ozturk</title>
-    <link>https://cemsinano.github.io/</link>
-    <description>Recent content on Cem Sinan Ozturk</description>
+    <title>Posts on Cem Sinan Ozturk</title>
+    <link>https://cemsinano.github.io/post/</link>
+    <description>Recent content in Posts on Cem Sinan Ozturk</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>cemsinanozturk@gmail.com (Cem Sinan Ozturk)</managingEditor>
     <webMaster>cemsinanozturk@gmail.com (Cem Sinan Ozturk)</webMaster>
     <lastBuildDate>Sat, 23 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cemsinano.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cemsinano.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
